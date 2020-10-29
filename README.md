@@ -14,7 +14,7 @@ Engineers at LoginRadius are not limited to develop, test, deploy, and maintain 
 
 As a part of our Giving Back To Community initiative, we aim to share the same with the developers worldwide via our [Engineering Blogs](https://www.loginradius.com/engineering/blog).
 
-This repository contains the sample code used in the engineering blogs written for the initiative mentioned above.
+This repository contains the **sample code used in the engineering blogs** written for the initiative mentioned above.
 
 <h2 id="loginradius"> About LoginRadius</h2>
 
